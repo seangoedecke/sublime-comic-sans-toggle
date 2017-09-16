@@ -1,1 +1,3 @@
-{ "keys": ["super+."], "command": "comic_sans_toggle" }
+[
+  { "keys": ["super+."], "command": "comic_sans_toggle" }
+]
