@@ -2,6 +2,10 @@
 
 Astound your coworkers by toggling your Sublime Text font to Comic Sans before pairing sessions.
 
+>This is pure evil!
+>
+>-- _bastijn, HN_
+
 # Installation
 
 To install the `ComicSansToggle` package via Package Control: hit `cmd + shift + P`, search for `List Packages`, then search for and select `ComicSansToggle`.
